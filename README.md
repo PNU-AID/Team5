@@ -7,7 +7,7 @@ __[Team]__ 👨🏻‍💻 <br>
   
   `김대욱`<br>
   - [블로그📑](https://velog.io/@nozerose)
-  - 목표🔥 : 공학선형대수학 학습, 딥러닝 기초 다지기 <br>
+  - 목표🔥 : 공학선형대수학 학습, 딥러닝 기초 다지기 ! <br>
   
   `박성민`<br>
   - [블로그📑](https://faceyourfear.tistory.com/)
