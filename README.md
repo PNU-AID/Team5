@@ -11,8 +11,8 @@ __[Team]__ 👨🏻‍💻 <br>
   - 목표🔥 : 공학선형대수학 학습, 딥러닝 기초 다지기 !! <br>
   
   `박성민`<br>
-  - [블로그📑](https://faceyourfear.tistory.com/)
-  - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, ㄴㅇㄹㄴㅇㄹㄴㄹㄴㅇㄹ <br>
+  - [블로그📑](https://velog.io/@sm136599)
+  - 목표🔥 : 선형대수학 제대로 복습, 딥러닝 기초 학습 <br>
   
   `정지윤`<br>
   - [블로그📑](https://faceyourfear.tistory.com/)
