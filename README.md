@@ -20,7 +20,7 @@ __[Team]__ 👨🏻‍💻 <br>
   
   `하성헌`<br>
   - [블로그📑](https://mars-hun.tistory.com/)
-  - 목표🔥 : LG aimers 수강, syudy 학습, PointNet 구조이해및 실
+  - 목표🔥 : LG aimers 수강, syudy 학습, 3D segmentation 학습 및 PointNet 구조이해
 
 ----
 __[팀 목표]__ 💻  
