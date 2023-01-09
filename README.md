@@ -23,8 +23,8 @@ __[Team]__ 👨🏻‍💻 <br>
   - 목표🔥 : LG aimers 수강, syudy 학습, 3D segmentation 학습 및 PointNet 구조이해
 
   `김범수`<br>
-  - [블로그📑](https://velog.io/@nozerose)
-  - 목표🔥 :  <br>
+  - [블로그📑](https://beomsoo-codingway.tistory.com/)
+  - 목표🔥 : kaggle혼자 10풀기, 공모전 참여하기<br>
 
 ----
 __[팀 목표]__ 💻  
