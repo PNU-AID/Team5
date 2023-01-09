@@ -15,8 +15,8 @@ __[Team]__ 👨🏻‍💻 <br>
   - 목표🔥 : 선형대수학 제대로 복습, 딥러닝 기초 학습 <br>
   
   `정지윤`<br>
-  - [블로그📑](https://faceyourfear.tistory.com/)
-  - 목표🔥 : 데이콘 순위권, 선형대수학 제대로 복습, ㄴㅇㄹㄴㅇㄹㄴㄹㄴㅇㄹ <br>
+  - [블로그📑](https://velog.io/@enchantee)
+  - 목표🔥 : 선형대수학 제대로 복습, 딥러닝 기초 <br>
   
   `하성헌`<br>
   - [블로그📑](https://mars-hun.tistory.com/)
